@@ -8,4 +8,4 @@ docker build --tag=sample .
 docker image ls
 # Step 3:
 # Run flask app
-docker run -p 8080:8080 sample
+docker run -p 5000:5000 sample
